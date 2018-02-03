@@ -1,2 +1,2 @@
 # HomeSecurity
-IOT home security solution
+Home security solution for IOT 
